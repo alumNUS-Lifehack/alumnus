@@ -26,27 +26,34 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Landing Page:
 <br>
-![Landing page](/public/landing.jpg)
+![Landing page](./public/landing.jpg)
 <br>
 
 New user signup:
 <br>
-![Signup page](/public/signup.png)
+![Signup page](./public/signup.png)
 <br>
 
 Login form:
 <br>
-![Login page](/public/login.png)
+![Login page](./public/login.png)
 <br>
 
 Find mentors:
 <br>
-![Find mentor](/public/findmentor.png)
+![Find mentor](./public/findmentor.png)
 <br>
 
 Chat:
 <br>
-![Chat](/public/chat.png)
+![Chat](./public/chat.png)
+<br>
+
+## User Flow
+
+Below is a diagram describing a user flow in alumNUS:
+<br>
+![User Flow](./public/activity%20diagram.jpg)
 <br>
 
 ## Learn More

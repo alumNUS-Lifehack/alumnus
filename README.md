@@ -4,7 +4,7 @@ Submission for LifeHack 2023.
 
 ## Project
 
-To view the project, you can run the frontend locally (instructions outlined in the [frontend repo README](https://https://github.com/alumNUS-Lifehack/alumnus/frontend/README.md)).
+To view the project, you can run the frontend locally (instructions outlined in the [frontend repo README](https://github.com/alumNUS-Lifehack/alumnus/blob/main/frontend/README.md)).
 
 The backend documentation can be accessed at: https://alumnus.fly.dev/docs/ or https://alumnus.fly.dev/redoc/
 
