@@ -2,6 +2,14 @@
 
 Submission for LifeHack 2023.
 
+## Vision
+
+To set up a reliable alumni network across the university.
+
+## Mission
+
+The career climate today is turbulent. AlumNUS was created with a singular goal in mind: easing the transition of NUS graduates into the workforce with guidance from mentors who have been through the same processes and struggles.
+
 ## Project
 
 To view the project, you can run the frontend locally (instructions outlined in the [frontend repo README](https://github.com/alumNUS-Lifehack/alumnus/blob/main/frontend/README.md)).
