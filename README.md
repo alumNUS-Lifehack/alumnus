@@ -24,3 +24,7 @@ The application is currently deployed, and can be accessed from the URLs above. 
 - Backend setup instructions are in `backend/README.md`.
 
 Follow the setup instructions to begin linking the two projects together. Make sure to set up your API URL in `frontend/utils/url.js`!
+
+## Data security
+
+Token-based authentication system + future steps to set up password-less login through university emails only.
